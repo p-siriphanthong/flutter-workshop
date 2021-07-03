@@ -13,3 +13,11 @@ Flutter demo application
 |               iOS                |               Android                |
 | :------------------------------: | :----------------------------------: |
 | ![](./docs/demo/counter-ios.gif) | ![](./docs/demo/counter-android.gif) |
+
+### [Simple Navigator](./simple_navigator)
+
+Simple navigator with passing data between screens
+
+|                    iOS                    |                    Android                    |
+| :---------------------------------------: | :-------------------------------------------: |
+| ![](./docs/demo/simple-navigator-ios.gif) | ![](./docs/demo/simple-navigator-android.gif) |
